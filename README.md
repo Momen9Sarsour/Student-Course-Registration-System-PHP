@@ -1,4 +1,3 @@
----
 
 # **Student Course Registration System Using PHP**
 
